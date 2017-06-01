@@ -1,4 +1,4 @@
-# OpenCV_AGC
+# OpenCV
 
 # Environment
 Windows 10
